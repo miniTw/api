@@ -1,0 +1,15 @@
+{
+    "name": "gilglecio/minitw",
+    "description": "Mini Tw com PHP e AngularJS",
+    "require": {
+        "slim/slim": "^3.0",
+        "php-activerecord/php-activerecord": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Gilglécio",
+            "email": "gilglecio_765@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
